@@ -1,5 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
+const Shape = require('./lib/shapes');
 
 const checkLength = async (input) => {
     const answer = await input;

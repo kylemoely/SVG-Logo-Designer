@@ -2,7 +2,8 @@
   # SVG Logo Designer     
          
   ## Description    
-  This application allows the user to generate a simple logo in SVG format.    
+  This application allows the user to generate a simple logo in SVG format.       
+  [Demonstration Video](https://watch.screencastify.com/v/9f0lik1HgR3ayEAgya4Y)
       
   ## Installation    
   This application is ran using Node.js, so the user will need that installed on their computer. To get the application running, clone this repo into the desired location, navigate there in the command terminal, run npm i to install the necessary npm libraries, and finally run node index.js.    
